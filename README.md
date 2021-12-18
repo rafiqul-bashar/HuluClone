@@ -1,5 +1,5 @@
-## Live Site - hulu-clone-au2xfdl24-mnimachon-gmailcom.vercel.app
+## Live Site - https://hulu-clone-gamma-woad.vercel.app/
 
 # This is Hulu Clone App
 
-## I Used NextJs and TailWindCss to Practice My Work
+### I Used NextJs and TailWindCss to Practice My Work
